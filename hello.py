@@ -1,3 +1,3 @@
-from helper import greeting
+from newfile import supergreeting
 
-greeting('hello')
+supergreeting('hello')
